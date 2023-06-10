@@ -12,3 +12,6 @@ fun main() {
             Character.getNumericValue(splitInput.last())
     println(if (firstHalf == secondHalf) "Lucky" else "Regular")
 }
+
+// just testing something here as well
+
