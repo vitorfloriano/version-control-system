@@ -4,3 +4,5 @@ fun main() {
     val result = input.map { it.toString() + it.toString() }.joinToString("")
     println(result)
 }
+
+// just testing something here as well
