@@ -4,7 +4,3 @@ fun main(args: Array<String>) {
   // put your code here
 }
 
-// just testing something
-// just testing something
-
-
